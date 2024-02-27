@@ -1,4 +1,4 @@
-import "./App.css";
+
 import heroImage from "./assets/hero.png"; 
 import dumblesImage from "./assets/dumbles.png"; 
 import modelImage from "./assets/model.png"
